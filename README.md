@@ -1,5 +1,4 @@
 # cloudgrab
-Download SharePoint, OneDrive,Google Drive, Dropbox & WeTransfer at Full Speed
-CloudGrab is a powerful Windows download manager for SharePoint, OneDrive, Google Drive, Dropbox, and WeTransfer share links. Batch download entire folders, resume interrupted transfers, and manage everything from one clean interface.
+CloudGrab is designed for BIM, QS, engineering, and construction professionals who regularly receive massive drawing packages, models, and project files through SharePoint and OneDrive folder structures. Large downloads at 16GB, or more often fail, disconnect, or lose folder hierarchy during browser downloads. CloudGrab provides a faster, more reliable way to download entire cloud folders while preserving the original structure and reducing interrupted transfers.
 
 Visit https://www.cloudgrab.net/ for more info
