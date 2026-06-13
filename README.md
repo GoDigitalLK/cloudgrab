@@ -10,6 +10,9 @@ Starting from **CloudGrab v1.0.41**, the application also supports **private Mic
 
 CloudGrab is especially useful for professionals working with large project files, BIM/CAD folders, engineering drawings, QS documents, tender packages, media files, client deliverables, and shared document archives.
 
+<img width="800" height="450" alt="Cloudgrab" src="https://github.com/user-attachments/assets/c9c3a9aa-850a-495f-8994-50950971b1ea" />
+
+
 ## Why CloudGrab?
 
 Downloading large folders from cloud platforms through a browser can be unreliable. Long downloads may fail, browser sessions can expire, and folder structures can be difficult to manage manually.
